@@ -103,11 +103,7 @@ A GUI window will appear where you can:
 
 Love SIYA AI? Help us improve it! Fork the repo, add your ideas, and submit a pull request. Check the issues page for tasks to tackle!
 
-## 📜 License
-
-SIYA AI is licensed under the MIT License—see the `LICENSE` file for details.
-
-## 👥 Contributors
+## 👥 CODED BY :
 
 - B P ARYAAN [Aryaan-Dev]
 
