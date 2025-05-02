@@ -18,7 +18,7 @@
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/SIYA-AI.git
+   git clone https://github.com/Aryaan-Dev/SIYA-AI.git
    cd SIYA-AI
    ```
 
